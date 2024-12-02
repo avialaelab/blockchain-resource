@@ -2,7 +2,7 @@
 
 Some resources for studying blockchain
 
-## Eethereum
+## Ethereum
 
 ### EVM
 
@@ -15,11 +15,17 @@ Some resources for studying blockchain
 - https://eips.ethereum.org/EIPS/eip-4844
 - https://consensys.io/blog/ethereum-evolved-dencun-upgrade-part-5-eip-4844
 
-### Tools
+### Tool
 
 - https://app.blocksec.com/explorer/
 - https://www.alchemy.com/gwei-calculator
 - https://www.evm-function-selector.click/
+
+## Optimism
+
+### Spec
+
+- https://specs.optimism.io/
 
 ## Bitcoin
 
